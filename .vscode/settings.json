@@ -1,0 +1,10 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "jupyter.jupyterServerType": "local",
+    "DockerRun.Containers": [
+        "7524b5f31474",
+        "330d06ed7721",
+        "80a388879a3c",
+        "d99b0db9ff4b"
+    ]
+}
